@@ -6,7 +6,8 @@ Breadth-First Search (BFS): An uninformed search algorithm that explores nodes l
 Depth-First Search (DFS): A search algorithm that explores nodes along each branch to its depth before backtracking, useful for applications requiring exhaustive exploration.
 
 
-Technologies Used
+Technologies Used:
+
 Python: Core language for implementing algorithms
 Data structures: Utilized queues, stacks, and priority queues for efficient algorithm operations
 This repository is ideal for those interested in learning or demonstrating knowledge of pathfinding techniques, algorithm optimization, and graph traversal methods.
